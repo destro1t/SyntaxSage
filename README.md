@@ -2,6 +2,8 @@
 
 Welcome to SyntaxSage, the cutting-edge code editor that integrates the power of AI to enhance your coding experience. With SyntaxSage, you can write, debug, and optimize your code with the assistance of advanced artificial intelligence.
 
+[**DISCORD**](https://discord.gg/cnBs974ywd)
+
 ## **Code Editor:**
 
 Experience the next generation of code editing with SyntaxSage. Our AI-powered editor provides real-time suggestions, error detection, and code completion to help you write cleaner, more efficient code.
